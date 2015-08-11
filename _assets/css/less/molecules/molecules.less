@@ -1,0 +1,85 @@
+html {
+  font-size: 18px;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+  	font-size: 1rem;
+  	background-color: @grey;
+}
+
+.inner {
+	max-width: 1100px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+@white:		#ffffff;
+@grey:		#e3e3e3;
+@black:		#3c3c3c;
+@yellow:	#fcb315;
+@teal:		#0bb3a0;
+@pink:		#ed146c;
+
+h1 {
+	color: @white;
+	.raleway-light;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	font-size: 2.2222222222222223em;
+	border-top: 2px solid @white;
+	border-bottom: 2px solid @white;
+	width: 14em;
+}
+
+h2 {
+	color: @black;
+	.raleway;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	font-size: 1.333333333333334em;
+	line-height: 1.5em;
+	padding-bottom: 20px;
+}
+
+h3 {
+	color: @black;
+	.raleway-bold;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	font-size: 0.8888888888888888em;
+	line-height: 1em;
+}
+
+p {
+	color: @black;
+	.raleway;
+	font-size: 1em;
+	line-height: 1.3em;
+	padding-bottom: 18px;
+}
+
+.btn {
+	text-align: center;
+	margin: 20px auto;
+	.button {
+		background-color: @white;
+		padding: 10px 20px;
+		text-align: center;
+		.raleway;
+		letter-spacing: 7px;
+		color: @black;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 1em;
+		&.hover {
+			color: @white;
+			background-color: @teal;
+			.transition;
+		}
+	}
+}
+
+hr {
+	margin: 57px 0;
+}
