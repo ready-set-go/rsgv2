@@ -31,33 +31,92 @@
 
 			<div class="btn"><a class="button" href="/contact">I'm sold. Let's get started.</a></div><!--btn-->
 
-			<hr/>
-
-			<div class="full laptop">
-
-				<p>It’s simple. <br/>We want you to be so stoked about our services that you tell your friends how amazing we are. After all, you wouldn’t put your stamp of approval on just anything, <br/>right?</p>
-
-			</div><!--full-->
-
-			<hr/>
-
-		    <div class="slider">
-
-		        <div class="flexslider carousel">
-
-		          	<ul class="slides">
-
-		            	<li>
-		  	    	    	<span class="icon-web"></span>
-		  	    		</li>
-
-		          	</ul>
-
-		        </div>
-
-		    </div>
-		
 		</div><!--content-container-->
+
+		<hr/>
+
+		<div class="full laptop">
+
+			<p>It’s simple. <br/>We want you to be so stoked about our services that you tell your friends how amazing we are. After all, you wouldn’t put your stamp of approval on just anything, <br/>right?</p>
+
+		</div><!--full-->
+
+		<hr/>
+
+	    <div class="slider">
+
+	        <div class="flexslider carousel">
+
+	          	<ul class="slides">
+
+	            	<li>
+	  	    	    	<span class="icon-website"></span>
+	  	    	    	<h3>Websites</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	            	<li>
+	  	    	    	<span class="icon-graphics"></span>
+	  	    	    	<h3>Graphics</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	            	<li>
+	  	    	    	<span class="icon-branding"></span>
+	  	    	    	<h3>Branding</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	            	<li>
+	  	    	    	<span class="icon-convo"></span>
+	  	    	    	<h3>Content</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	            	<li>
+	  	    	    	<span class="icon-video"></span>
+	  	    	    	<h3>Video</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	            	<li>
+	  	    	    	<span class="icon-photo"></span>
+	  	    	    	<h3>Photo</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	            	<li>
+	  	    	    	<span class="icon-results"></span>
+	  	    	    	<h3>Strategy</h3>
+	  	    	    	<p>Need short description here of web design service.</p>
+	  	    		</li>
+
+	          	</ul>
+
+	        </div>
+
+	    </div>
+	
+		<hr/>
+
+		<div id="people">
+			
+			<article class="container">
+				
+				<img src="/_assets/img/team-lindsey-maddox.jpg" alt="Lindsey Maddox headshot" title="Lindsey Maddox">
+
+				<div class="blurb">
+					
+					<h4>“Vinyl, documentaries, and a good ole back yard grill.”</h4>
+
+					<div class="btn"><a class="button" href="/team">More Lindsey.</a></div><!--btn-->
+
+				</div><!--blurb-->
+
+			</article><!--container-->
+
+		</div><!--people-->
+
 
 	</div><!--inner-->
 
