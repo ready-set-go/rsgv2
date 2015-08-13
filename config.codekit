@@ -589,6 +589,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/team-martha-obryan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31648,
+		"inputAbbreviatedPath": "\/_assets\/img\/team-martha-obryan.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/team-martha-obryan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/team-molly-buckley.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -640,6 +651,116 @@
 		"initialSize": 15926,
 		"inputAbbreviatedPath": "\/_assets\/img\/what-we-want.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/what-we-want.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-angry-eagle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6295,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-angry-eagle.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-angry-eagle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-dykes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23286,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-dykes.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-dykes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-energy-logic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16263,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-energy-logic.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-energy-logic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-gardner-school.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25023,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-gardner-school.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-gardner-school.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-hands.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18091,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-hands.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-hands.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-knockout-fitness.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21733,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-knockout-fitness.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-knockout-fitness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-martha-obryan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31648,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-martha-obryan.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-martha-obryan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-sitemason.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14642,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-sitemason.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-sitemason.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-special-olympics.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20767,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-special-olympics.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-special-olympics.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-tsu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27902,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-tsu.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-tsu.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

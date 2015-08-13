@@ -55,3 +55,143 @@
 		color: @white;
 	}
 }
+
+#people {
+	.container {
+		width: 22%;
+		margin: 0 1.5%;
+		overflow: hidden;
+		position: relative;
+		display: inline-block;
+		img {
+			width: 100%;
+			display: inline-block;
+			vertical-align: top;
+		}
+		.blurb {
+			width: 44%;
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			z-index: -1;
+			h4 {
+				font-size: 1em;
+				line-height: 1.608695652173913em;
+				margin-bottom: 40px;
+				text-align: center;
+				.raleway-light;
+			}
+			.btn {
+				font-size: .8em;
+			}
+		}
+		&.lindsey {
+			margin-left: 0;
+		}
+		&:hover {
+			.blurb {
+				left: 47%;
+				.transition;
+			}
+			img {
+				width: 44%;
+			}
+		}
+		&:hover.lindsey {
+			width: 50%;
+			&+.jay {
+				width: 22%;
+				.blurb {
+					opacity: 0;
+					.transition;
+				}
+			}
+		}
+		&:hover.abbey {
+			width: 50%;
+			&+.jay {
+				width: 22%;
+				.blurb {
+					opacity: 0;
+					.transition;
+				}
+				img {
+					width: 100%;
+				}
+			}
+		}
+		&.jay {
+			width: 44%;
+			margin-right: 0;
+			img {
+				width: 50%;
+				display: inline-block;
+			}
+			.blurb {
+				position: relative;
+				display: inline-block;
+				left: 1.5%;
+				width: 49%;
+				vertical-align: bottom;
+			}
+			&:hover {
+				width: 44%;
+				.blurb {
+					left: 1.5%;
+				}
+				img {
+					width: 50%;
+				}
+			}
+		}
+	}
+}
+
+.work {
+	padding-top: 47px;
+	.work-item {
+		width: 10%;
+		display: inline-block;
+		margin: 0 .37%;
+		height: 100px;
+		overflow: hidden;
+		position: relative;
+		img {
+			width: 100%;
+			.transition(all, 8000ms, ease);
+			&:hover {
+				width: 150%;
+				margin: -25% 0 0 -25%;
+			}
+		}
+		&:hover {
+			.transition;
+			img {
+				margin: -25% -25% -25% -25%;
+			}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
