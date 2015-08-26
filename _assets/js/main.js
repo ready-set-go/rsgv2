@@ -1,24 +1,5 @@
 // JavaScript Document
 
-
-// show hide left menu
-function showMenu(){
-	$('a#showMenu').click(function(){
-		if ($('header.main nav.main-nav ul').hasClass('expand')) {
-			menuOut();
-		} else {
-			menuIn();
-		}
-		return false;
-	});
-}
-function menuOut() {
-	$('header.main nav.main-nav ul').removeClass('expand');
-}
-function menuIn() {
-	$('header.main nav.main-nav ul').addClass('expand');
-}
-
 // this function fixes placeholders in browsers that don't support it
 function initPlaceholders() {
 	if ($('input[placeholder]').length > 0) {
@@ -48,12 +29,9 @@ function initPlaceholders() {
 	}
 }
 
+
 function firstLoad() {
-	initVars();
 	initPlaceholders();
-	showMenu();
-	menuOut();
-	menuIn();
 }
 
 $(function() {

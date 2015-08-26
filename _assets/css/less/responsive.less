@@ -1,5 +1,212 @@
+@media screen and (max-width: 1400px) {
+	html {
+		font-size: 17.5px;
+	}
+}
+
+@media screen and (max-width: 1300px) {
+	html {
+		font-size: 17px;
+	}
+	header nav ul .socials {
+		padding-left: 0;
+	}
+	h1 {
+		font-size: 1.3em;
+	}
+	#bearings {
+		height: 120px;
+	}
+}
+
 @media screen and (max-width: 1200px) {
 	html {
+		font-size: 16.5px;
+	}
+	header nav ul li {
+		padding: 0 .85em;
+	}
+}
+
+@media screen and (max-width: 1100px) {
+	html {
+		font-size: 16px;
+	}
+	header nav ul li {
+		padding: 0 .5em;
+	}
+	header nav ul .socials {
+		padding-left: 1.2em;
+	}
+	h1 {
+		font-size: 1em;
+	}
+	#bearings {
+		height: 100px;
+	}
+}
+
+@media screen and (max-width: 1000px) {
+	html {
+		font-size: 15.5px;
+	}
+	header nav {
+		border: none;
+		z-index: 9;
+		.transition;
+		ul {
+			position: absolute;
+			left: -260px;
+			top: 50px;
+			overflow: hidden;
+			z-index: 1;
+			padding-top: 40px;
+			margin-left: 0;
+			&.expand {
+				left: 25px;
+				.transition;
+			}
+			li {
+				display: block;
+				font-size: 1.3em;
+				line-height: 2em;
+				&.home {
+					display: block;
+				}
+			}
+			.socials {
+				padding-left: 0;
+				li {
+					display: inline-block;
+				}
+			}
+		}
+		&.expand {
+			width: 280px;
+			height: 100%;
+			background-color: @grey;
+			position: fixed;
+			left: 0;
+			top: 0;
+		    -webkit-box-shadow: 2.5px 2.5px 5px 2.5px rgba(0, 0, 0, .25);
+		    -moz-box-shadow:    2.5px 2.5px 5px 2.5px rgba(0, 0, 0, .25);
+		    box-shadow:     	2.5px 2.5px 5px 2.5px rgba(0, 0, 0, .25);
+		}
+	}
+	button.menu-btn {
+		display: block;
+		border: none;
+		background: none;
+		position: fixed;
+		left: 20px;
+		top: 0;
+		height: 75px;
+		&.x.close {
+			.lines {
+				background: transparent;
+				height: 75px;
+				display: block;
+				&:before {
+					-webkit-transform: rotate3d(0, 0, 1, 45deg);
+					transform: rotate3d(0, 0, 1, 45deg);
+				}
+				&:after {
+					-webkit-transform: rotate3d(0, 0, 1, -45deg);
+					transform: rotate3d(0, 0, 1, -45deg);
+				}
+				&:before, &:after {
+					-webkit-transform-origin: 50% 50%;
+					transform-origin: 50% 50%;
+					top: 40px;
+					width: 4em;
+				}
+			}
+		}
+	}
+	.lines {
+		display: inline-block;
+		width: 4em;
+		height: 0.5em;
+		background: @black;
+		border-radius: 0.1em;
+		transition: 0.3s;
+		position: relative;
+		&:before {
+			top: 1em;
+		}
+		&:after {
+			top: -1em;
+		}
+		&:before, &:after {
+			display: inline-block;
+			width: 4em;
+			height: .5em;
+			background: @black;
+			border-radius: 0.1em;
+			transition: 0.3s;
+			position: absolute;
+			left: 0;
+			content: '';
+			-webkit-transform-origin: 0.28571em center;
+			transform-origin: 0.28571em center;
+		}
+	}	
+	h1 {
+		letter-spacing: 7px;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	html {
+		font-size: 15px;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	html {
+		font-size: 14.5px;
+	}
+	h1 br {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 700px) {
+	html {
 		font-size: 14px;
+	}
+	#bearings {
+		padding-top: 21px;
+	}
+	.btn .button {
+		letter-spacing: 3px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.icon-arrow {
+		display: none;
+	}
+	.content-container {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	h1 {
+		letter-spacing: 3px;
+	}
+	#bearings {
+		margin-bottom: 27px;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	#bearings {
+		height: 120px;
+	}
+	.btn .button {
+		letter-spacing: 1px;
+		font-size: .75em;
 	}
 }

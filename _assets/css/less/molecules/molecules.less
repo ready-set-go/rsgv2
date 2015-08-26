@@ -26,10 +26,13 @@ h1 {
 	.raleway-light;
 	letter-spacing: 10px;
 	text-transform: uppercase;
-	font-size: 2.2222222222222223em;
-	border-top: 2px solid @white;
-	border-bottom: 2px solid @white;
-	width: 14em;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	width: 100%;
+	&.sub {
+		border-top: 1px solid @white;
+		border-bottom: 1px solid @white;
+	}
 }
 
 h2 {
@@ -78,6 +81,18 @@ p {
 	padding-bottom: 18px;
 }
 
+ul {
+	margin-left: 20px;
+	li {
+		color: @black;
+		.raleway;
+		font-size: 1em;
+		line-height: 1.3em;
+		padding-bottom: 10px;
+		list-style-type: square;
+	}
+}
+
 .btn {
 	text-align: center;
 	margin: 20px auto;
@@ -91,7 +106,7 @@ p {
 		text-decoration: none;
 		text-transform: uppercase;
 		font-size: 1em;
-		&.hover {
+		&:hover {
 			color: @white;
 			background-color: @teal;
 			.transition;

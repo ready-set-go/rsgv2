@@ -14,13 +14,14 @@ header {
 		border-top: 1px solid @black;
 		border-bottom: 1px solid @black;
 		ul {
+			margin-left: 0;
 			li {
 				display: inline-block;
 				.raleway-light;
 				font-size: 0.8888888888888888em;
 				line-height: 1em;
 				text-transform: uppercase;
-				padding: 0 1.3em;
+				padding: 0 1em;
 				a {
 					text-decoration: none;
 					color: @black;
@@ -29,13 +30,16 @@ header {
 						.transition;
 					}
 				}
+				&.home {
+					display: none;
+				}
 			}
 			.socials {
-				padding-left: 5em;
+				padding-left: 3em;
 				li {
-					font-size: 3em;
+					font-size: 2.7em;
 					vertical-align: middle;
-					padding: 0 .03em;
+					padding: 0 0em;
 					a {
 					}
 				}
@@ -43,6 +47,11 @@ header {
 		}
 	}
 }
+
+	button.menu-btn {
+		display: none;
+}
+
 
 
 /******** END MAIN HEADER AND NAVIGATION STYLES *********/

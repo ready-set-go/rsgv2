@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "19051",
 "files": {
 	"\/_assets\/css\/less\/master.less": {
 		"allowInsecureImports": 0,
@@ -282,6 +282,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_assets\/css\/less\/pages\/process.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/css\/less\/pages\/process.less",
+		"outputAbbreviatedPath": "\/_assets\/css\/less\/css\/process.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/_assets\/css\/less\/pages\/proof.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -424,6 +444,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/card.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10272,
+		"inputAbbreviatedPath": "\/_assets\/img\/card.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/card.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/chosen-sprite.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -442,6 +473,28 @@
 		"initialSize": 872,
 		"inputAbbreviatedPath": "\/_assets\/img\/chosen-sprite@2x.png",
 		"outputAbbreviatedPath": "\/_assets\/img\/chosen-sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/contact.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56793,
+		"inputAbbreviatedPath": "\/_assets\/img\/contact.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/contact.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/curling.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42359,
+		"inputAbbreviatedPath": "\/_assets\/img\/curling.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/curling.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -479,6 +532,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/logo-badge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4341,
+		"inputAbbreviatedPath": "\/_assets\/img\/logo-badge.png",
+		"outputAbbreviatedPath": "\/_assets\/img\/logo-badge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -486,6 +550,72 @@
 		"initialSize": 6560,
 		"inputAbbreviatedPath": "\/_assets\/img\/logo.png",
 		"outputAbbreviatedPath": "\/_assets\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/philosophy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109131,
+		"inputAbbreviatedPath": "\/_assets\/img\/philosophy.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/philosophy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/relay.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74802,
+		"inputAbbreviatedPath": "\/_assets\/img\/relay.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/relay.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/services.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82101,
+		"inputAbbreviatedPath": "\/_assets\/img\/services.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/services.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/sitemason.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5161,
+		"inputAbbreviatedPath": "\/_assets\/img\/sitemason.png",
+		"outputAbbreviatedPath": "\/_assets\/img\/sitemason.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/skates.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170126,
+		"inputAbbreviatedPath": "\/_assets\/img\/skates.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/skates.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/swimming.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 593343,
+		"inputAbbreviatedPath": "\/_assets\/img\/swimming.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/swimming.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -578,6 +708,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/team-kevin-kennedy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15008,
+		"inputAbbreviatedPath": "\/_assets\/img\/team-kevin-kennedy.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/team-kevin-kennedy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/team-lindsey-maddox.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -655,13 +796,79 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_assets\/img\/work-angry-eagle.jpg": {
+	"\/_assets\/img\/work-affinity.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35191,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-affinity.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-affinity.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-amp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6552,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-amp.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-amp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-angry-eagle-i.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 6295,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-angry-eagle-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-angry-eagle-i.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-angry-eagle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18712,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-angry-eagle.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-angry-eagle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-dogs-rule.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10704,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-dogs-rule.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-dogs-rule.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-duty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6354,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-duty.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-duty.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-dykes-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23286,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-dykes-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-dykes-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -670,9 +877,31 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 23286,
+		"initialSize": 14433,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-dykes.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-dykes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-east-nashvillian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13545,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-east-nashvillian.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-east-nashvillian.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-energy-logic-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16263,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-energy-logic-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-energy-logic-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -681,9 +910,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16263,
+		"initialSize": 10553,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-energy-logic.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-energy-logic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-gardner-school-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25023,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-gardner-school-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-gardner-school-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -692,9 +932,31 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 25023,
+		"initialSize": 18283,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-gardner-school.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-gardner-school.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-good-country.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18589,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-good-country.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-good-country.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-hands-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18091,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-hands-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-hands-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -703,9 +965,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18091,
+		"initialSize": 10671,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-hands.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-hands.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-knockout-fitness-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21733,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-knockout-fitness-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-knockout-fitness-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -714,9 +987,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 21733,
+		"initialSize": 13250,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-knockout-fitness.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-knockout-fitness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-martha-obryan-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31648,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-martha-obryan-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-martha-obryan-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -725,9 +1009,42 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 31648,
+		"initialSize": 23762,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-martha-obryan.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-martha-obryan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-mobaglo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10282,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-mobaglo.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-mobaglo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-pepsi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10927,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-pepsi.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-pepsi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-sitemason-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14642,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-sitemason-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-sitemason-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -736,9 +1053,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 14642,
+		"initialSize": 11203,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-sitemason.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-sitemason.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-special-olympics-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20767,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-special-olympics-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-special-olympics-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -747,9 +1075,64 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20767,
+		"initialSize": 15907,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-special-olympics.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-special-olympics.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-stunt-double.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13838,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-stunt-double.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-stunt-double.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-third-man.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25059,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-third-man.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-third-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-travis-meadows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5410,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-travis-meadows.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-travis-meadows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-trent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31129,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-trent.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-trent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-tsu-i.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27902,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-tsu-i.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-tsu-i.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -758,9 +1141,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 27902,
+		"initialSize": 20067,
 		"inputAbbreviatedPath": "\/_assets\/img\/work-tsu.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/work-tsu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/work-watkins.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9853,
+		"inputAbbreviatedPath": "\/_assets\/img\/work-watkins.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/work-watkins.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -845,12 +1239,34 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_assets\/js\/jquery.maskedinput.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/js\/jquery.maskedinput.js",
+		"outputAbbreviatedPath": "\/_assets\/js\/min\/jquery.maskedinput-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_assets\/js\/main.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/js\/main.js",
 		"outputAbbreviatedPath": "\/_assets\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/js\/min\/fancybox.jquery-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/js\/min\/fancybox.jquery-min.js",
+		"outputAbbreviatedPath": "\/_assets\/js\/min\/min\/fancybox.jquery-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -878,6 +1294,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_assets\/js\/min\/process-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/js\/min\/process-min.js",
+		"outputAbbreviatedPath": "\/_assets\/js\/min\/min\/process-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_assets\/js\/process.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/js\/process.js",
+		"outputAbbreviatedPath": "\/_assets\/js\/min\/process-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/contact.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -892,6 +1330,186 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/philosophy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/philosophy.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/proof.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/proof.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/services.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/services.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/abbey-smith.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/abbey-smith.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/alex-fortney.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/alex-fortney.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/alison-slamon.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/alison-slamon.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/chris-turner.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/chris-turner.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/eric-andre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/eric-andre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/greg-thornton.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/greg-thornton.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/jay-arnold.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/jay-arnold.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/katy-oss.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/katy-oss.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/kevin-kennedy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/kevin-kennedy.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/lindsey-maddox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/lindsey-maddox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/molly-buckley.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/molly-buckley.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/ryan-buckley.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/ryan-buckley.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/tony-dancy.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/tony-dancy.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/team\/trent-thibodeaux.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/team\/trent-thibodeaux.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/work.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/work.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1388,10 +2006,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -1400,15 +2014,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1416,75 +2022,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},

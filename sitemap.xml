@@ -9,12 +9,16 @@ $a = strtotime("-1 week");
 $lastMod = date("Y-m-d", $a);
 //END generate a week ago date
 
-$base = "http://roofingbymidsouth.com";
+$base = "http://www.readysetgo.agency";
 
 $staticPages = "/,
-				/commercial/,
-				/specialty/,
-				/insurance/public-adjusting
+				/philosophy,
+				/services,
+				/team/,
+				/work,
+				/process,
+				/proof,
+				/contact
 			   ";
 $static = explode(",", $staticPages);
 ?>

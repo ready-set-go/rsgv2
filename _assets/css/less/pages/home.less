@@ -1,22 +1,27 @@
 #bearings {
 	background: url(/_assets/img/bearings.jpg) no-repeat center center transparent;
 	background-attachment: fixed;
-	height: 100px;
+	height: 132px;
 	padding-top: 28px;
 	margin-bottom: 57px;
 }
 
-.icon-arrow {
-	color: @white;
-	font-size: 3em;
-	display: inline-block;
-	width: 10%;
-	vertical-align: top;
+.slider {
+	[class^="icon-"], [class*=" icon-"] {
+		color: @white;
+		font-size: 3em;
+		display: inline-block;
+		width: 15%;
+		vertical-align: top;
+	}
 }
 
 .content-container {
 	width: 80%;
 	margin: 0 auto;
+}
+
+.home .content-container {
 	display: inline-block;
 }
 
@@ -57,23 +62,65 @@
 }
 
 #people {
-	.container {
-		width: 22%;
-		margin: 0 1.5%;
-		overflow: hidden;
-		position: relative;
-		display: inline-block;
+	height: 200px;
+	overflow: hidden;
+	.jaycontainer {
+		width: 45.5%;
+		float: left;
 		img {
 			width: 100%;
-			display: inline-block;
-			vertical-align: top;
+		}
+	}
+	.jayblurb {
+		h4 {
+			font-size: 1em;
+			line-height: 1.608695652173913em;
+			margin-bottom: 40px;
+			text-align: center;
+			.raleway-light;
+		}
+		.btn {
+			font-size: .8em;
+		}
+	}
+	.container, .jaycontainer {
+		width: 22%;
+		margin: 0 1.5%;
+		position: relative;
+		float: left;
+	    top: 0;
+	    &:hover {
+	    	
+	    	img {
+	    		width: 242px;
+			    -webkit-transition: 0 0 0;
+			    -moz-transition: 0 0 0;
+			    -o-transition: 0 0 0;
+			    -ms-transition: 0 0 0;
+			    transition: 0 0 0;
+	    	}
+	    }
+		img {
+			width: 242px;
+		    position: relative;
+		    top: 0;
+		    left: 0;
+		    display: inline-block;
+		    -webkit-transition: 0 0 0;
+		    -moz-transition: 0 0 0;
+		    -o-transition: 0 0 0;
+		    -ms-transition: 0 0 0;
+		    transition: 0 0 0;
 		}
 		.blurb {
-			width: 44%;
-			position: absolute;
-			left: 0;
-			bottom: 0;
-			z-index: -1;
+		    display: inline-block;
+		    left: 0;
+		    top: 0;
+		    position: absolute;
+		    height: 200px;
+		    vertical-align: top;
+		    z-index: -1;
+	    	width: 242px;
 			h4 {
 				font-size: 1em;
 				line-height: 1.608695652173913em;
@@ -84,64 +131,8 @@
 			.btn {
 				font-size: .8em;
 			}
-		}
-		&.lindsey {
-			margin-left: 0;
-		}
-		&:hover {
-			.blurb {
-				left: 47%;
-				.transition;
-			}
-			img {
-				width: 44%;
-			}
-		}
-		&:hover.lindsey {
-			width: 50%;
-			&+.jay {
-				width: 22%;
-				.blurb {
-					opacity: 0;
-					.transition;
-				}
-			}
-		}
-		&:hover.abbey {
-			width: 50%;
-			&+.jay {
-				width: 22%;
-				.blurb {
-					opacity: 0;
-					.transition;
-				}
-				img {
-					width: 100%;
-				}
-			}
-		}
-		&.jay {
-			width: 44%;
-			margin-right: 0;
-			img {
-				width: 50%;
-				display: inline-block;
-			}
-			.blurb {
-				position: relative;
-				display: inline-block;
-				left: 1.5%;
-				width: 49%;
-				vertical-align: bottom;
-			}
-			&:hover {
-				width: 44%;
-				.blurb {
-					left: 1.5%;
-				}
-				img {
-					width: 50%;
-				}
+			&.front {
+				z-index: 1;
 			}
 		}
 	}
@@ -150,7 +141,7 @@
 .work {
 	padding-top: 47px;
 	.work-item {
-		width: 10%;
+		width: 9.9%;
 		display: inline-block;
 		margin: 0 .37%;
 		height: 100px;
@@ -172,16 +163,6 @@
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
